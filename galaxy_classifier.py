@@ -117,5 +117,3 @@ def initial(fName):
   plt.figure()
   plot_confusion_matrix(model_cm, classes=class_labels, normalize=False)
   plt.show()
-
-initialize()

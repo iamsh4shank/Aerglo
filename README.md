@@ -56,5 +56,5 @@ This project is far away from perfect so it would be great if you contribute to 
 ## :wrench: How to use Aerglo
 
 1. Clone the repository
-1. Go to the folder and type ```python3.6 aerglo_fetch <choice>```, for choice see ```How it Workes```section.
+1. Go to the folder and type ```python3.6 aerglo_fetch <choice>```, for choice see ```How it Works```section.
 

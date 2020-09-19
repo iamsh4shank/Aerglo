@@ -1,5 +1,5 @@
 # Aerglo :milky_way:
-A python-based tool to fetch images  - 
+A python-based tool to fetch astronomical images  - 
 - Astronomical Picture of the Day (APOD)
 - taken by Mars Rover
 - Earth Polychromatic Imaging Camera (EPIC)

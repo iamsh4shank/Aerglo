@@ -1,11 +1,11 @@
 # Aerglo :milky_way:
-A python based tool to fetch images  - 
+A python-based tool to fetch images  - 
 - Astronomical Picture of the Day (APOD)
 - taken by Mars Rover
 - Earth Polychromatic Imaging Camera (EPIC)
 - Earth Observation Data
 
-By using this tool you will know how beautiful our universe it :heart_eyes:. It also allows you to classify galaxies based on the galaxy data which contains parameters like frequency bands, various visual angles, geometry, temperature, etc. All the data is fetched from NASA open [APIs](https://api.nasa.gov/). 
+By using this tool you will know how beautiful our universe it :heart_eyes: It also allows you to classify galaxies based on the galaxy data which contains parameters like frequency bands, various visual angles, geometry, temperature, etc. All the data is fetched from NASA open [APIs](https://api.nasa.gov/). 
 
 
 ## :camera: Screenshots
@@ -33,7 +33,7 @@ This tool provides you a feature to fetch images based on your choice. For runni
 - -clGal ------> for galaxy classification 
 - -help ------> for any help
 
-It provides data filtering based on various parameters like date, name, id, etc. For galaxy classificationit provides a demo dataset which contains data of 780 galaxies by SDSS having various kinds of shapes like rectangular, elliptical, merger, spiral, etc. User can also provide his own dataset by providing a file.npy which conatins galaxy records.
+It provides data filtering based on various parameters like date, name, id, etc. For galaxy, classification provides a demo dataset that contains data of 780 galaxies by SDSS having various kinds of shapes like rectangular, elliptical, merger, spiral, etc. Users can also provide his dataset by providing a file.npy which contains galaxy records.
 
 
 
@@ -50,11 +50,11 @@ It provides data filtering based on various parameters like date, name, id, etc.
 * Sklearn library
 
 ## :key: Contribution
-This project is far away from perfect so it would be great if you contribute to make it great. Few ideas I can provide like you can enhance this tool by adding more API functionalities or also enable .csv instead of just processing on .npy for galaxy classification. Also a lot of anaysis part can be introduced in the tool. Hope to see good your contributions. 
+This project is far away from perfect so it would be great if you contribute to make it great. Few ideas I can provide like you can enhance this tool by adding more API functionalities or also enable .csv instead of just processing on .npy for galaxy classification. Also, a lot of analysis part can be introduced in the tool. Hope to see good your contributions. 
 
 
 ## :wrench: How to use Aerglo
 
 1. Clone the repository
-1. Go to folder and type ```python3.6 aerglo_fetch <choice>```, for choice see ```How it Workes```section.
+1. Go to the folder and type ```python3.6 aerglo_fetch <choice>```, for choice see ```How it Workes```section.
 

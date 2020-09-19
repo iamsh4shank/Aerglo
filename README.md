@@ -33,7 +33,7 @@ This tool provides you a feature to fetch images based on your choice. For runni
 - -clGal ------> for galaxy classification 
 - -help ------> for any help
 
-It provides data filtering based on various parameters like date, name, id, etc. For galaxy, classification provides a demo dataset that contains data of 780 galaxies by SDSS having various kinds of shapes like rectangular, elliptical, merger, spiral, etc. Users can also provide his dataset by providing a file.npy which contains galaxy records.
+It provides data filtering based on various parameters like date, name, id, etc. For galaxy-classification, it provides a demo dataset that contains data of 780 galaxies by SDSS having various kinds of shapes like rectangular, elliptical, merger, spiral, etc. Users can also provide his dataset by providing a file.npy which contains galaxy records.
 
 
 

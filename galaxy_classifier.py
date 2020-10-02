@@ -61,8 +61,8 @@ def plot_confusion_matrix(cm, classes,
                  color="white" if cm[i, j] > thresh else "black")
 
     plt.tight_layout()
-    plt.ylabel('True Class')
-    plt.xlabel('Predicted Class')
+    plt.ylabel('Ground Truth')
+    plt.xlabel('Prediction')
     
 def rf_predict_actual(data, n_estimators):
   # generate the features and targets
